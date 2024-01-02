@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Righteous&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+:root{
+    --primary-color: #9C29B2;
+    --main-color: #fff;
+    --secondary-color: #FAFF00;
+}
+
+.main-header{
+    background-color: var(--primary-color) !important;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Righteous', sans-serif;
+}
+
+p{
+    text-align: justify;
+}
+
+.home-section{
+    background-color: #FAFF00;
+    height: 78vh;
+}
+
+.main-heading{
+    color: #9C29B2;
+    font-size: 3.5rem;
+    -webkit-text-stroke: #fff 3px;
+}
+
+.main-para{
+    color: #9C29B2;
+}
+
+.bttn{
+    background-color: #9C29B2;
+    border: none;
+    width: 130px;
+    height: 50px;
+}
+
+.bttn:hover{
+    background-color: #4f085e;
+}
+
+.custom-shape-divider-bottom-1700321841 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-bottom-1700321841 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 109px;
+}
+
+.custom-shape-divider-bottom-1700321841 .shape-fill {
+    fill: #FFFFFF;
+}
+
+.txtt{
+color: #9C29B2;
+text-align: center;
+font-size: 58px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.cards{
+    justify-content: center;
+    align-items: center;
+}
+
+.c-2{
+    background: #9C29B2;
+    color: #fff;
+}
+
+.about-us{
+    background: #9C29B2;
+    overflow: hidden;
+}
+
+.btttn{
+        background-color: #ffffff;
+        color: #9C29B2;
+        border: none;
+        width: 130px;
+        height: 50px;
+}
+
+.txxt{
+    color: #9C29B2;
+    font-size: 20px;
+}
+
+.par{
+    font-size: 15px;
+}
+
+.txxtt{
+    font-size: 25px;
+    color: #9C29B2;
+    font-weight: bolder;
+}
+
+.bt{
+    color: #9C29B2;
+    cursor: pointer;
+}
+
+.cd{
+    border-radius: 30px;
+}
+
+.services{
+    width: 1440px;
+    height: 741px;
+    overflow: hidden;
+}
+
+.sv-txt{
+    font-size: 30px;
+    color: white;
+}
+
+.sv-img{
+    height: 50vh;
+}
+
+.form{
+    width: 1440px;
+    height: 741px;
+    overflow: hidden;
+}
